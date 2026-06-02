@@ -1,0 +1,13 @@
+PS C:\Users\Middleton\ai_labs> (Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& c:\Users\Middleton\ai_labs\ai_env\Scripts\Activate.ps1)
+(ai_env) PS C:\Users\Middleton\ai_labs> & c:\Users\Middleton\ai_labs\ai_env\Scripts\python.exe c:/Users/Middleton/ai_labs/environment_test.py
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+✅ Python Version: 3.14.5
+✅ OS: Windows 11
+✅ NumPy: 2.4.6
+✅ Pandas: 3.0.3
+✅ Matplotlib: 3.10.9
+✅ Seaborn: 0.13.2
+✅ Virtual Environment: Active (C:\Users\Middleton\ai_labs\ai_env)
+==================================================
